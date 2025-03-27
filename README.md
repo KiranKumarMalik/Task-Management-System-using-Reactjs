@@ -10,7 +10,7 @@
 
 ## 📷 Screenshots
 
-![Screenshot 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-xB_NskCCSMSnG-n9fDvajBY9qQtBOd1zc76vkmv3l0_-XrX5oeQo51jerPfEbXlkIZLFhSclNXFI4Z4CSs4joj3fUZ=w1920-h883)
+![Screenshot 1](https://github.com/KiranKumarMalik/Task-Management-System-using-Reactjs/blob/77d0bc24e060b9737efc3aac459f162c775db3bf/ss/Screenshot%202025-03-27%20120202.png)
 
 ## Getting Started
 
